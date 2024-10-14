@@ -7,6 +7,7 @@
 </p>
 
 ---
+[<iframe src="http://bewake24.valeff.com" height="200" width="300" title="Iframe Example"></iframe>](http://bewake24.valeff.com)
 
 ### 👨‍💻 About Me
 - 🔬 Likes to experiment in development a lot.
@@ -17,7 +18,7 @@
 
 ### 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,wordpress,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,bootstrap,java,mysql,wordpress,postman,vite,npm,css,vscode,fastapi,electron,figma&theme=dark" />
 </p>
 
 ---
