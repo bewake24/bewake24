@@ -28,10 +28,6 @@
   <img src="https://streak-stats.demolab.com?user=bewake24&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bewake24&bg_color=1a1b27&color=00ffff&line=f46d6d&point=f9f9f9&hide_border=true" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bewake24&layout=compact&theme=radical" width="45%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=bewake24&limit=5&layout=compact&theme=radical&combine_all_yearly_contributions=true" width="45%" />
