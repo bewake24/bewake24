@@ -7,7 +7,6 @@
 </p>
 
 ---
-[<iframe src="http://bewake24.valeff.com" height="200" width="300" title="Iframe Example"></iframe>](http://bewake24.valeff.com)
 
 ### 👨‍💻 About Me
 - 🔬 Likes to experiment in development a lot.
