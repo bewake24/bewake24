@@ -53,14 +53,6 @@
 
 ---
 
-### 🏆 Achievements  
-- 🌟 **Freelance Portfolio:** Built websites and tools for clients in India and internationally  
-- 📊 **Content Creation Journey:** Started sharing knowledge on YouTube and Instagram  
-- 🥇 **High-IQ Problem Solver:** Love solving coding challenges independently  
-- 🚀 **Aspiration:** Landing high-paying clients and challenging roles  
-
----
-
 <h3 align="center">
   ⚡ Thanks for Visiting! ⚡
 </h3>
