@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🔬 Likes to experiment in development a lot.
-- 💻 Currently working on creating electron apps through NodeJs.  
+- 💻 Currently writng APIs in node
 - 🧠 Curiosity in coding is my core strength.
 
 ---
