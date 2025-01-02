@@ -26,17 +26,17 @@
 
 ## My Projects
 
-| Sr/no | Name                 | URI                                                                  | Status                                                                                                                       | Source Code                                                                                                                               |
-| ----- | -------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.    | GlobalFoyer          | [↗](https://globalfoyer.com)                                         | <span style="color: #FFF; background-color: #2a4974; padding: 4px 8px; border-radius: 24px; font-size: 12px">Ongoing </span> | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
-| 2.    | Collative            | [↗](https://collative.in)                                            | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
-| 3.    | TCS KYT              | [↗](https://kyt.valeff.com)                                          | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | [Github ↗](https://github.com/bewake24/tcs-previous-year-kyt-questions)                                                                   |
-| 4.    | DN Store             | [↗](https://github.com/bewake24/DN_Store_Server/blob/main/ReadMe.md) | <span style="color: #FFF; background-color: #2a4974; padding: 4px 8px; border-radius: 24px; font-size: 12px">Ongoing </span> | [Github ↗](https://github.com/bewake24/DN_Store_Server)                                                                                   |
-| 5.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
-| 6.    | Stana Global         | [↗](https://stanaglobal.com)                                         | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
-| 7.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
-| 8.    | Ajmanavta            | [↗](https://ajmanavta.in)                                            | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
-| 9.    | Succulent Leaf       | [↗](https://succulentleaf.com)                                       | <span style="color: #FFF; background-color: #2b593f; padding: 4px 8px; border-radius: 24px; font-size: 12px">Live </span>    | <span style="color: #FFF; background-color: #5a5a5a; color:white; padding: 4px 8px; border-radius: 24px; font-size: 12px">Private </span> |
+| Sr/no | Name                 | URI                                                                  | Status  | Source Code                                                             |
+| ----- | -------------------- | -------------------------------------------------------------------- | ------- | ----------------------------------------------------------------------- |
+| 1.    | GlobalFoyer          | [↗](https://globalfoyer.com)                                         | Ongoing | Private                                                                 |
+| 2.    | Collative            | [↗](https://collative.in)                                            | Live    | Private                                                                 |
+| 3.    | TCS KYT              | [↗](https://kyt.valeff.com)                                          | Live    | [Github ↗](https://github.com/bewake24/tcs-previous-year-kyt-questions) |
+| 4.    | DN Store             | [↗](https://github.com/bewake24/DN_Store_Server/blob/main/ReadMe.md) | Ongoing | [Github ↗](https://github.com/bewake24/DN_Store_Server)                 |
+| 5.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | Live    | Private                                                                 |
+| 6.    | Stana Global         | [↗](https://stanaglobal.com)                                         | Live    | Private                                                                 |
+| 7.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | Live    | Private                                                                 |
+| 8.    | Ajmanavta            | [↗](https://ajmanavta.in)                                            | Live    | Private                                                                 |
+| 9.    | Succulent Leaf       | [↗](https://succulentleaf.com)                                       | Live    | Private                                                                 |
 
 ---
 
@@ -75,4 +75,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bewake24&style=for-the-badge&color=141321" alt="Profile Views" />
 </p>
-
