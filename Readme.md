@@ -32,7 +32,7 @@
 | 2.    | Collative            | [↗](https://collative.in)                                            | Live        | Private                                                                 |
 | 3.    | TCS KYT              | [↗](https://kyt.valeff.com)                                          | Live        | [Github ↗](https://github.com/bewake24/tcs-previous-year-kyt-questions) |
 | 4.    | DN Store             | [↗](https://github.com/bewake24/DN_Store_Server/blob/main/ReadMe.md) | Ongoing     | [Github ↗](https://github.com/bewake24/DN_Store_Server)                 |
-| 5.    | Pracharverse         | [↗](https://test.pracharverse.com)                                   | DesignPhase | Private                                                                 |
+| 5.    | Pracharverse         | [↗](https://pracharverse.com)                                        | Ongoing     | Private                                                                 |
 | 6.    | Stana Global         | [↗](https://stanaglobal.com)                                         | Live        | Private                                                                 |
 | 7.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | Live        | Private                                                                 |
 | 8.    | Ajmanavta            | [↗](https://ajmanavta.in)                                            | Live        | Private                                                                 |
