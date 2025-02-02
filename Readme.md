@@ -29,14 +29,14 @@
 | Sr/no | Name                 | URI                                                                  | Status      | Source Code                                                             |
 | ----- | -------------------- | -------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------- |
 | 1.    | StartupNews Fyi (Website)          | [↗](https://startupnews.fyi/)                                       | Live        | Private                                                                 |
-| 2.    | GlobalFoyer          | [↗](https://globalfoyer.com)                                         | Live        | Private                                                                 |
-| 3.    | Collative            | [↗](https://collative.in)                                            | Live        | Private                                                                 |
-| 4.    | TCS KYT              | [↗](https://kyt.valeff.com)                                          | Live        | [Github ↗](https://github.com/bewake24/tcs-previous-year-kyt-questions) |
-| 5.    | DN Store             | [↗](https://github.com/bewake24/DN_Store_Server/blob/main/ReadMe.md) | Ongoing     | [Github ↗](https://github.com/bewake24/DN_Store_Server)                 |
-| 6.    | Pracharverse         | [↗](https://pracharverse.com)                                        | Ongoing     | Private                                                                 |
-| 7.    | Stana Global         | [↗](https://stanaglobal.com)                                         | Live        | Private                                                                 |
-| 8.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | Live        | Private                                                                 |
-| 9.    | Ajmanavta            | [↗](https://ajmanavta.in)                                            | Live        | Private                                                                 |
+| 2.    | StartupNews Fyi (Android App)          | [↗](https://play.google.com/store/apps/details?id=com.startupnews)                                       | Live        | Private                                                                 |
+| 3.    | GlobalFoyer          | [↗](https://globalfoyer.com)                                         | Live        | Private                                                                 |
+| 4.    | Collative            | [↗](https://collative.in)                                            | Live        | Private                                                                 |
+| 5.    | TCS KYT              | [↗](https://kyt.valeff.com)                                          | Live        | [Github ↗](https://github.com/bewake24/tcs-previous-year-kyt-questions) |
+| 6.    | DN Store             | [↗](https://github.com/bewake24/DN_Store_Server/blob/main/ReadMe.md) | Ongoing     | [Github ↗](https://github.com/bewake24/DN_Store_Server)                 |
+| 7.    | Pracharverse         | [↗](https://pracharverse.com)                                        | Ongoing     | Private                                                                 |
+| 8.    | Stana Global         | [↗](https://stanaglobal.com)                                         | Live        | Private                                                                 |
+| 9.    | Antarmanh Foundation | [↗](https://antarmanhfoundation.org)                                 | Live        | Private                                                                 |
 | 10.    | Succulent Leaf       | [↗](https://succulentleaf.com)                                       | Live        | Private                                                                 |
 
 ---
