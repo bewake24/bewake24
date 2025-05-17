@@ -32,7 +32,7 @@
 | 2.    | StartupNews Fyi (Android App)          | [↗](https://play.google.com/store/apps/details?id=com.startupnews)                                       | Live        | Private                                                                 |
 | 3.    | GlobalFoyer          | [↗](https://globalfoyer.com)                                         | Live        | Private                                                                 |
 | 4.    | Collative            | [↗](https://collative.in)                                            | Live        | Private                                                                 |
-| 5.    | TCS KYT              | [↗](https://kyt.valeff.com)                                          | Live        | [Github ↗](https://github.com/bewake24/tcs-previous-year-kyt-questions) |
+| 5.    | Nirogmaya              | [↗](https://Nirogmaya.in)                                          | Live        | Private|
 | 6.    | DN Store             | [↗](https://github.com/bewake24/DN_Store_Server/blob/main/ReadMe.md) | Ongoing     | [Github ↗](https://github.com/bewake24/DN_Store_Server)                 |
 | 7.    | Pracharverse         | [↗](https://pracharverse.com)                                        | Ongoing     | Private                                                                 |
 | 8.    | Stana Global         | [↗](https://stanaglobal.com)                                         | Live        | Private                                                                 |
